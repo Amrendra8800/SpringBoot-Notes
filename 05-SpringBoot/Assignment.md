@@ -1,0 +1,25 @@
+# Projects
+- Todo App
+    - ```addTodo```
+    - ```readTodos```
+    - ```updateTodo```
+    - ```deleteTodo```
+- URL Hit Count
+    - ```getHitCount```
+        - ```params:users```
+- Random Jokes API
+    - ```getRandomJokes/{numberofjokes}```
+- Stock Scanner
+    - ```addStocks```
+    - ```getStocks```
+    - ```getBestStocks```
+    - ```updateStocks```
+- ERM
+    - ```addStudentInfo```
+    - ```getBestStudents```
+    - ```getMaxmarks```
+    - ```getAverageMarks```
+- URL Shortener
+    - ```addShortURL```
+    - ```getActualURLFromShortURL```
+
